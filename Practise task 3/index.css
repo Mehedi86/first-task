@@ -1,0 +1,25 @@
+.container{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+}
+
+.box_1, .box_2, .box_3{
+    text-align: center;
+    padding: 20px;
+    background-image: url("truck-with-white-trailer-that-says-scania-side_123827-23486.avif");
+    color: rgb(61, 58, 53);
+    width: 90%;
+    background-repeat: no-repeat;
+    margin: 4 px auto;
+    background-size: cover;
+}
+
+p{
+    color: cornsilk;
+}
